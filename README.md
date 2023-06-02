@@ -13,10 +13,6 @@ I am a Geography GIS graduate from UCSB with a passion for data analytics and vi
 I also showcase my data visualizations on Tableau. Visit my Tableau Public profile to view interactive visualizations and dashboards:
 - coming soon.
 
-## Connect with Me
-
-Please feel free to reach out to me if you have any inquiries, job opportunities, or collaboration ideas.
-
 
 
 <!--
