@@ -1,14 +1,7 @@
 ### My name is Yadira Ocampo
 ## About Me
 
-I am a Geography GIS graduate from UCSB with a passion for data analytics and visualization. I specialize in using SQL and Excel for data manipulation and analysis. Currently, I am actively searching for a data analytics job where I may apply my skills and contribute to meaningful projects.
-
-## Skills
-- SQL
-- Excel
-- Python
-- Data Analysis
-- Data Visualization
+I have a passion for data analytics and visualization and studied at UC Santa Barbara, from which I graduated with a B.A. in Geography / GIS. I specialize in using SQL and Excel for data manipulation and analysis. Currently, I am actively searching for a data analytics job where I may apply my skills and contribute to meaningful projects.
 
 I also showcase my data visualizations on Tableau. Visit my Tableau Public profile to view interactive visualizations and dashboards:
 - coming soon.
