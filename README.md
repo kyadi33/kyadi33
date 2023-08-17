@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome to my portfolio! My name is Yadira and I studied at UC Santa Barbara and graduated with a B.A. in Geography / GIS and specialize in using SQL and Excel for data manipulation and analysis. I am actively searching for a data analytics job where I may apply these skills to contribute to meaningful projects.
+Welcome to my portfolio! My name is Yadira and I studied at UC Santa Barbara and graduated with a B.A. in Geography / GIS. I specialize in using SQL and Excel for data manipulation and analysis. I am actively searching for a data analytics job where I may apply these skills to contribute to meaningful projects.
 
 I also showcase my data visualizations on Tableau. Visit my Tableau Public profile to view interactive visualizations and dashboards:
 - coming soon.
